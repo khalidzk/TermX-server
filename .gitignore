@@ -1,0 +1,7 @@
+target/
+.flattened-pom.xml
+.idea/
+*.iml
+.DS_Store
+*.log
+application-my.yaml
